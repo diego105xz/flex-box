@@ -1,8 +1,6 @@
-### Projeto - 33/100
+# Projeto - 33/100
 
-## Flex-Box
-
-# Menu Vingadores
+## Menu Vingadores
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/diego105xz/Projeto_Blog/blob/main/LICENSE) 
 
